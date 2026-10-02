@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.8.2",
+  "versionCode": 23,
+  "versionName": "1.8.3",
   "apkUrl": "https://github.com/Batyrzhan90/mobila_mmg_update/releases/latest/download/MobileInspector.apk",
-  "sha256": "59FE9471806A05F15747068A69EE3E6FA98BE58F21792083DF41C80710C65E5B",
+  "sha256": "39E1F2017167E8B78278FED68E002EA2F3F8AB15645952DCAA01A65E255646E1",
   "required": false,
-  "notes": "обновление приложения до версии Версия 1.8.2"
+  "notes": "обновление приложения до версии Версия 1.8.3"
 }
