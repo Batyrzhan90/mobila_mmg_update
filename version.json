@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.8.0",
+  "versionCode": 21,
+  "versionName": "1.8.1",
   "apkUrl": "https://github.com/Batyrzhan90/mobila_mmg_update/releases/latest/download/MobileInspector.apk",
-  "sha256": "FDE5926F4456F5B52C2754E609C7B55DC2AC205E73B646ED8883A34B111D70B6",
+  "sha256": "4485BDE35837417ED6DD61DF2EC4BB779DE92F6C45A70268BE58DC8F41DCD0CD",
   "required": false,
   "notes": "Версия 1.8.0. Добавлена поддержка дробных значений при обходах ГУ и ЗУ и механизм автоматического обновления приложения."
 }
